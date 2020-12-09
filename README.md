@@ -1,0 +1,2 @@
+# Automator For Myself
+ This repository includes 3 small web automation tools (using Selenium) that are really useful for me, and possibly might be useful for you as well. First one, scraps the stock price for the entered company from Google. Second one is specifically very useful to me, it basically picks up the lastest png file downloaded by me and uploads it on convertio.com and changes it into .ico form. The last one books the ticket for the latest movie on bookmyshow.com
