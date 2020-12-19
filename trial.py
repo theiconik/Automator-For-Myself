@@ -6,7 +6,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-stcp= input("Enter which company's stock price you want to know : ")
+c= input("Enter which company's stock price you want to know : ")
+stcp= c + ' stock price'
 driver= webdriver.Chrome(ChromeDriverManager().install())
 
 driver.get("https://www.google.com")
